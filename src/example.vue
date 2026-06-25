@@ -5,5 +5,5 @@
 <script lang="ts" setup>
 console.log();
 
-export default {}
+export default {};
 </script>

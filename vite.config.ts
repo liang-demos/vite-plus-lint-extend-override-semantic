@@ -18,9 +18,9 @@ export default defineConfig({
         // `overrides` use `merge semantic there`
         plugins: ["vue"],
         rules: {
-          "vue/no-export-in-script-setup": "error"
-        }
-      }
-    ]
+          "vue/no-export-in-script-setup": "error",
+        },
+      },
+    ],
   },
 });
